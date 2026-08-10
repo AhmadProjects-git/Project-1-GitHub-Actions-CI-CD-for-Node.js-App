@@ -1,6 +1,3 @@
-Yeh raha aapka complete raw markdown code. Aap simply is block ke top-right corner par bane **Copy** icon par click karein aur ise apni `README.md` file ke andar paste kar dein:
-
-```markdown
 # 🚀 Enterprise Node.js CI Pipeline with GitHub Actions
 
 A production-grade demonstration of Continuous Integration (CI) engineering for a Node.js web application. This project showcases environment isolation via Node Version Manager (NVM), deterministic package installation, and automated workflow validation gates using GitHub Actions.
